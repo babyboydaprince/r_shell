@@ -44,4 +44,4 @@ Não me responsabiliso por qualquer uso inadequado/indevido desta aplicação.
 Esta aplicação foi constuída apenas com propósito de estudo.
 
 ---
-⌨️ com ❤️ por [babyboydaprince](https://github.com/babyboydaprince) 😊
+⌨️ com ❤️ por [BraiNiac](https://github.com/babyboydaprince) 😊
