@@ -1,47 +1,52 @@
 # Python Reverse Shell
 
-Script simplificado e minimalista que executa a criação de um reverse shell entre servidor e cliente.
+Simple python script which creates a reverse shell connection between client and server.
 
 ## 🚀 Run
 
- 1. Executar ReverseShell-server.py em seu host.
+ 1. Run ReverseShell-server.py in the server host.
  ```
 python ReverseShell-server.py
  ```
- 2. Executar ReverseShell-client.py no host alvo.
+ 2. Run ReverseShell-client.py in target host.
  ```
 python ReverseShell-client.py targetIP
  ```
- Exemplo
+ Example
  ```
 python ReverseShell-client.py 127.0.0.1
  ```
-### 📋 Pré-requisitos
+### 📋 Prerequisites
 
--> Python
-
-
-### 🔧 Instalação
-
-Não requer instalação.
+-> Python 3
 
 
+### 🔧 Installation
 
-## 🛠️ Construído com
+Does not require installation
+
+
+
+## 🛠️ Made with
 
 -> Python 3.9.2
 
 
-## 📌 Versão
+## 📌 r_shell version
 
 -> 1.0
 
 
-## 📄 Termos
+## 📄 Terms
 
-Não me responsabiliso por qualquer uso inadequado/indevido desta aplicação.
+I,the developer, do not take any responsibility charges for bad usage
+of this software.
 
-Esta aplicação foi constuída apenas com propósito de estudo.
+This tool was created for study purposes.
+
+Respect other people's privacy.
+
 
 ---
-⌨️ com ❤️ por [BraiNiac](https://github.com/babyboydaprince) 😊
+
+⌨️ Made with ❤️ by [BraiNiac](https://github.com/babyboydaprince) 👽
